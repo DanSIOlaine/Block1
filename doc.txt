@@ -1,0 +1,34 @@
+1: Méthode GET et POST 
+ -Get est une requete envoyé par l'utilisateur au serveur pour recuperer une information.
+  (exemple:Je demande une page a google et il me la renvoie)
+  
+ -POST il s'agit d'une requete fait par le navigateur au serveur.
+ 
+
+
+2: Comparaison méthode avec un tableau
+	
+  Get --> utilisateur --> serveur 
+   <--       <--            <--
+   
+  Post --> navigateur --> serveur
+  
+
+3: Extensible 
+
+
+4:Sans Etat:
+
+HTTP signifie hypertext transfert protocol, il est différent du HTTPS qui signie hyper text transfert protocol security
+puisqu'il est ne chiffre pas les données d'aucune manière contrairement a HTTPS qui chiffre par un chiffrement qui utilise
+le chiffrement symétrique et Asymétrique.
+
+
+5:URL
+
+HTTP= qui est le protocol utilisé pour naviguer sur internet 
+-ensuite le nom de domaine comme google.com
+
+-le rest
+
+ 
