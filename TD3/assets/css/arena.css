@@ -1,3 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
 .bandeau{
     position: absolute;
     width: 100%;
@@ -22,7 +27,7 @@
     position: relative;
     width: 450px;
     height: 70px;
-    margin-left: 1000px;
+    margin-left: 1300px;
     bottom: 65px;
 }
 
@@ -57,8 +62,8 @@
     border: solid black;
     height: 300px;
     width: 600px;
-    margin-left: 33%;
-    margin-top: 125px;
+    margin-left: 30%;
+    margin-top: 80px;
 }
 
 #title{
@@ -93,3 +98,40 @@
     border-color: blue;
 }
 
+#our{
+    text-align: center;
+}
+
+.trait2{
+    border-bottom: solid 4px lightblue;
+    width: 100px;
+    position: relative;
+    margin-top: -20px;
+    margin-left: 725px;
+}
+
+#ear{
+    text-align: center;
+}
+
+.logo-bas{
+    display: block;
+    height: 150px;
+    width: 100%px;
+    margin-top: 200px;
+}
+
+.logo-in-block{
+
+    height: 140px;
+    width: 140px;
+    display: inline-block;
+    margin-right: 160px;
+    margin-left: 130px;
+
+
+
+
+
+
+}
