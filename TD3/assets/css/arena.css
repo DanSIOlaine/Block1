@@ -22,7 +22,7 @@
     position: relative;
     width: 450px;
     height: 70px;
-    margin-left: 1200px;
+    margin-left: 1000px;
     bottom: 65px;
 }
 
@@ -55,7 +55,7 @@
 .text{
     display: block;
     border: solid black;
-    height: 200px;
+    height: 300px;
     width: 600px;
     margin-left: 33%;
     margin-top: 125px;
@@ -69,18 +69,27 @@
     text-align: center;
 }
 .trait{
-    border-bottom: solid 4px blue;
+    border-bottom: solid 4px lightblue;
     width: 100px;
     position: relative;
     margin-top: -115px;
     margin-left: 250px;
-
-
-
 }
 
+#button1{
+    background-color: lightblue;
+    font-size: 28px;
+    width: 75px;
+    height: 30px;
+    font-size: 10px;
+    text-align: center;
+    margin-left: 270px;
+    margin-top: 140px;
+    border-radius: 10px;
+    border: 1px;
+}
 
-
-
-
+#button1:hover {
+    border-color: blue;
+}
 
