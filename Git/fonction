@@ -1,0 +1,9 @@
+<?php
+
+function titre($content,$level=1){
+    echo "<h$level>$content</h$level>";
+    if($sousTitre!=""){
+        echo "<p class='sub-tittle'>sousTitre"</p>;
+    }
+
+}
